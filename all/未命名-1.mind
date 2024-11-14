@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d5lk7v5jsyo0","created":1731552739802,"text":"屋面结构识别方案"},"children":[]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d5lk7v5jsyo0","created":1731552739802,"text":"屋面结构识别方案"},"children":[{"data":{"id":"d5lk8c7sd8o0","created":1731552776943,"text":"外轮廓"},"children":[{"data":{"id":"d5lk8fmu5fs0","created":1731552784383,"text":"直线检测"},"children":[{"data":{"id":"d5lk8mk3gdk0","created":1731552799455,"text":"结构整合"},"children":[]}]}]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
